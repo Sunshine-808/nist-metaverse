@@ -1,0 +1,102 @@
+[
+  {
+    "id": "f-1",
+    "families": "Audit and Accountability",
+    "families_description": ""
+  },
+  {
+    "id": "f-2",
+    "families": "Assessment, Authorization and Monitoring",
+    "families_description": ""
+  },
+  {
+    "id": "f-3",
+    "families": "Planning",
+    "families_description": ""
+  },
+  {
+    "id": "f-4",
+    "families": "Program Management",
+    "families_description": ""
+  },
+  {
+    "id": "f-5",
+    "families": "Risk Assessment",
+    "families_description": ""
+  },
+  {
+    "id": "f-6",
+    "families": "Identification and Authentication",
+    "families_description": ""
+  },
+  {
+    "id": "f-7",
+    "families": "System and Communications Protection",
+    "families_description": ""
+  },
+  {
+    "id": "f-8",
+    "families": "System and Information Integrity",
+    "families_description": ""
+  },
+  {
+    "id": "f-9",
+    "families": "Access Control",
+    "families_description": ""
+  },
+  {
+    "id": "f-10",
+    "families": "Awareness and Training",
+    "families_description": ""
+  },
+  {
+    "id": "f-11",
+    "families": "Configuration Management",
+    "families_description": ""
+  },
+  {
+    "id": "f-12",
+    "families": "Contingency Planning",
+    "families_description": ""
+  },
+  {
+    "id": "f-13",
+    "families": "Incident Response",
+    "families_description": ""
+  },
+  {
+    "id": "f-14",
+    "families": "Maintenance",
+    "families_description": ""
+  },
+  {
+    "id": "f-15",
+    "families": "Media Protection",
+    "families_description": ""
+  },
+  {
+    "id": "f-16",
+    "families": "Physical and Environmental Protection",
+    "families_description": ""
+  },
+  {
+    "id": "f-17",
+    "families": "Personnel Security",
+    "families_description": ""
+  },
+  {
+    "id": "f-18",
+    "families": "System and Services Acquisition",
+    "families_description": ""
+  },
+  {
+    "id": "f-19",
+    "families": "Supply Chain Risk Management",
+    "families_description": ""
+  },
+  {
+    "id": "f-20",
+    "families": "PII Processing and Transparency",
+    "families_description": ""
+  }
+]

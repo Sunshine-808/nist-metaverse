@@ -1,0 +1,767 @@
+[
+  {
+    "id": "tp-1",
+    "topics": "Security and Privacy",
+    "topic_definition": ""
+  },
+  {
+    "id": "tp-2",
+    "topics": "Laws and Regulations",
+    "topic_definition": ""
+  },
+  {
+    "id": "tp-3",
+    "topics": "Technologies",
+    "topic_definition": ""
+  },
+  {
+    "id": "tp-4",
+    "topics": "Applications",
+    "topic_definition": ""
+  },
+  {
+    "id": "tp-5",
+    "topics": "Activities and Products",
+    "topic_definition": ""
+  },
+  {
+    "id": "tp-6",
+    "topics": "Sectors",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-1",
+    "topics": "audit & accountability",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-2",
+    "topics": "planning",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-3",
+    "topics": "risk assessment",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-4",
+    "topics": "E-Government Act",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-5",
+    "topics": "Federal Information Security Modernization Act",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-6",
+    "topics": "Homeland Security Presidential Directive 7",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-7",
+    "topics": "OMB Circular A-130",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-8",
+    "topics": "acquisition",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-9",
+    "topics": "cryptography",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-10",
+    "topics": "identity & access management",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-11",
+    "topics": "testing & validation",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-12",
+    "topics": "authentication",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-13",
+    "topics": "digital signatures",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-14",
+    "topics": "encryption",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-15",
+    "topics": "message authentication",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-16",
+    "topics": "risk management",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-17",
+    "topics": "access control",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-18",
+    "topics": "Personal Identity Verification",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-19",
+    "topics": "personnel security",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-20",
+    "topics": "biometrics",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-21",
+    "topics": "smart cards",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-22",
+    "topics": "Homeland Security Presidential Directive 12",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-23",
+    "topics": "secure hashing",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-24",
+    "topics": "key management",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-25",
+    "topics": "post-quantum cryptography",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-26",
+    "topics": "cybersecurity framework",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-27",
+    "topics": "enterprise",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-28",
+    "topics": "quick-start guides",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-29",
+    "topics": "awareness training & education",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-30",
+    "topics": "behavior",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-31",
+    "topics": "phishing",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-32",
+    "topics": "privacy",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-33",
+    "topics": "usability",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-34",
+    "topics": "cybersecurity education",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-35",
+    "topics": "cybersecurity workforce",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-36",
+    "topics": "small & medium business",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-37",
+    "topics": "cybersecurity supply chain risk management",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-38",
+    "topics": "Controlled Unclassified Information",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-39",
+    "topics": "storage",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-40",
+    "topics": "operational technology",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-41",
+    "topics": "manufacturing",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-42",
+    "topics": "general security & privacy",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-43",
+    "topics": "big data",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-44",
+    "topics": "mobile",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-45",
+    "topics": "Health Insurance Portability and Accountability Act",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-46",
+    "topics": "healthcare",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-47",
+    "topics": "access authorization",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-48",
+    "topics": "continuous monitoring",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-49",
+    "topics": "intrusion detection & prevention",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-50",
+    "topics": "malware",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-51",
+    "topics": "networks",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-52",
+    "topics": "cyber-physical systems",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-53",
+    "topics": "Executive Order 13636",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-54",
+    "topics": "security programs & operations",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-55",
+    "topics": "configuration management",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-56",
+    "topics": "public key infrastructure",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-57",
+    "topics": "communications & wireless",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-58",
+    "topics": "Cybersecurity Enhancement Act",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-59",
+    "topics": "First Responder Network Authority",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-60",
+    "topics": "public safety",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-61",
+    "topics": "controls",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-62",
+    "topics": "security automation",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-63",
+    "topics": "threats",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-64",
+    "topics": "hardware",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-65",
+    "topics": "Internet of Things",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-66",
+    "topics": "Executive Order 13800",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-67",
+    "topics": "program management",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-68",
+    "topics": "Cyber Security R&D Act",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-69",
+    "topics": "security controls",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-70",
+    "topics": "system authorization",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-71",
+    "topics": "software & firmware",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-72",
+    "topics": "retail",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-73",
+    "topics": "cloud & virtualization",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-74",
+    "topics": "energy",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-75",
+    "topics": "privacy engineering",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-76",
+    "topics": "systems security engineering",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-77",
+    "topics": "telework",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-78",
+    "topics": "asset management",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-79",
+    "topics": "patch management",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-80",
+    "topics": "security & behavior",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-81",
+    "topics": "personally identifiable information",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-82",
+    "topics": "vulnerability management",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-83",
+    "topics": "firewalls",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-84",
+    "topics": "contingency planning",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-85",
+    "topics": "incident response",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-86",
+    "topics": "maintenance",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-87",
+    "topics": "media protection",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-88",
+    "topics": "physical & environmental protection",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-89",
+    "topics": "ransomware",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-90",
+    "topics": "Cybersecurity Strategy and Implementation Plan",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-91",
+    "topics": "zero trust",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-92",
+    "topics": "hospitality",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-93",
+    "topics": "privacy controls",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-94",
+    "topics": "Executive Order 14028",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-95",
+    "topics": "analytics",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-96",
+    "topics": "smart grid",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-97",
+    "topics": "roots of trust",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-98",
+    "topics": "personal computers",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-99",
+    "topics": "servers",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-100",
+    "topics": "modeling",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-101",
+    "topics": "reliability",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-102",
+    "topics": "artificial intelligence",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-103",
+    "topics": "Executive Order 14306",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-104",
+    "topics": "financial services",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-105",
+    "topics": "email",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-106",
+    "topics": "assurance",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-107",
+    "topics": "conferences & workshops",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-108",
+    "topics": "forensics",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-109",
+    "topics": "random number generation",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-110",
+    "topics": "BIOS",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-111",
+    "topics": "trustworthiness",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-112",
+    "topics": "advanced persistent threats",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-113",
+    "topics": "resilience",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-114",
+    "topics": "annual reports",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-115",
+    "topics": "controls assessment",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-116",
+    "topics": "Federal Acquisition Regulation",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-117",
+    "topics": "internet",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-118",
+    "topics": "operating systems",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-119",
+    "topics": "botnets",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-120",
+    "topics": "Internet of Things Cybersecurity Improvement Act",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-121",
+    "topics": "Executive Order 13702",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-122",
+    "topics": "mathematics",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-123",
+    "topics": "lightweight cryptography",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-124",
+    "topics": "OMB Circular A-11",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-125",
+    "topics": "security measurement",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-126",
+    "topics": "information sharing",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-127",
+    "topics": "transportation",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-128",
+    "topics": "voting",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-129",
+    "topics": "Help America Vote Act",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-130",
+    "topics": "standards development",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-131",
+    "topics": "laws",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-132",
+    "topics": "Federal Cybersecurity Research and Development Strategic Plan",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-133",
+    "topics": "complexity",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-134",
+    "topics": "Comprehensive National Cybersecurity Initiative",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-135",
+    "topics": "sensors",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-136",
+    "topics": "blockchain",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-137",
+    "topics": "reference materials",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-138",
+    "topics": "positioning navigation & timing",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-139",
+    "topics": "telecommunications",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-140",
+    "topics": "Executive Order 13905",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-141",
+    "topics": "CHIPS and Science Act",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-142",
+    "topics": "circuits",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-143",
+    "topics": "semiconductors",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-144",
+    "topics": "combinatorial testing",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-145",
+    "topics": "vulnerabilities",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-146",
+    "topics": "quantum information science",
+    "topic_definition": ""
+  },
+  {
+    "id": "tc-147",
+    "topics": "executive documents",
+    "topic_definition": ""
+  }
+]
