@@ -2061,18 +2061,8 @@
   },
   {
     "source": "SP1800-35",
-    "target": "k-161",
-    "label_keywords": "identity"
-  },
-  {
-    "source": "SP1800-35",
-    "target": "k-40",
-    "label_keywords": "credential"
-  },
-  {
-    "source": "SP1800-35",
     "target": "k-306",
-    "label_keywords": "and access management (ICAM)"
+    "label_keywords": "identity, credential, and access management (ICAM)"
   },
   {
     "source": "SP1800-35",
@@ -5771,13 +5761,8 @@
   },
   {
     "source": "SP800-177 Rev. 1",
-    "target": "k-730",
-    "label_keywords": "Domain based Message Authentication"
-  },
-  {
-    "source": "SP800-177 Rev. 1",
     "target": "k-731",
-    "label_keywords": "Reporting and Conformance (DMARC)"
+    "label_keywords": "Domain based Message Authentication, Reporting and Conformance (DMARC)"
   },
   {
     "source": "SP800-177 Rev. 1",
@@ -7631,18 +7616,8 @@
   },
   {
     "source": "SP800-215",
-    "target": "k-960",
-    "label_keywords": "security orchestration"
-  },
-  {
-    "source": "SP800-215",
-    "target": "k-961",
-    "label_keywords": "automation"
-  },
-  {
-    "source": "SP800-215",
     "target": "k-962",
-    "label_keywords": "and response (SOAR)"
+    "label_keywords": "security orchestration, automation, and response (SOAR)"
   },
   {
     "source": "SP800-215",
@@ -13631,11 +13606,6 @@
   },
   {
     "source": "IR7621 Rev. 1",
-    "target": "k-1493",
-    "label_keywords": ""
-  },
-  {
-    "source": "IR7621 Rev. 1",
     "target": "k-53",
     "label_keywords": "information security"
   },
@@ -16916,11 +16886,6 @@
   },
   {
     "source": "IR8144",
-    "target": "k-1493",
-    "label_keywords": ""
-  },
-  {
-    "source": "IR8144",
     "target": "k-1748",
     "label_keywords": "enterprise mobility"
   },
@@ -19611,18 +19576,8 @@
   },
   {
     "source": "IR8335",
-    "target": "k-161",
-    "label_keywords": "identity"
-  },
-  {
-    "source": "IR8335",
-    "target": "k-40",
-    "label_keywords": "credential"
-  },
-  {
-    "source": "IR8335",
     "target": "k-306",
-    "label_keywords": "and access management (ICAM)"
+    "label_keywords": "identity, credential, and access management (ICAM)"
   },
   {
     "source": "IR8335",
@@ -19646,18 +19601,8 @@
   },
   {
     "source": "IR8336",
-    "target": "k-161",
-    "label_keywords": "identity"
-  },
-  {
-    "source": "IR8336",
-    "target": "k-40",
-    "label_keywords": "credential"
-  },
-  {
-    "source": "IR8336",
     "target": "k-306",
-    "label_keywords": "and access management (ICAM)"
+    "label_keywords": "identity, credential, and access management (ICAM)"
   },
   {
     "source": "IR8336",
@@ -22362,7 +22307,7 @@
   {
     "source": "ITL Bulletin43186",
     "target": "k-453",
-    "label_keywords": "Virtualization"
+    "label_keywords": "virtualization"
   },
   {
     "source": "ITL Bulletin43186",
@@ -22582,7 +22527,7 @@
   {
     "source": "ITL Bulletin42941",
     "target": "k-219",
-    "label_keywords": "Information Technology"
+    "label_keywords": "information technology"
   },
   {
     "source": "ITL Bulletin42941",
@@ -22602,7 +22547,12 @@
   {
     "source": "ITL Bulletin42941",
     "target": "k-2174",
-    "label_keywords": "wireless TechnologyBluetooth"
+    "label_keywords": "wireless technology"
+  },
+  {
+    "source": "ITL Bulletin42941",
+    "target": "k-439",
+    "label_keywords": "Bluetooth"
   },
   {
     "source": "ITL Bulletin42941",
@@ -22681,13 +22631,8 @@
   },
   {
     "source": "ITL Bulletin42843",
-    "target": "k-93",
-    "label_keywords": "privacy"
-  },
-  {
-    "source": "ITL Bulletin42843",
-    "target": "k-81",
-    "label_keywords": "risk management"
+    "target": "k-825",
+    "label_keywords": "privacy risk management"
   },
   {
     "source": "ITL Bulletin42843",
@@ -22786,8 +22731,8 @@
   },
   {
     "source": "ITL Bulletin42752",
-    "target": "k-1754",
-    "label_keywords": "reduce software vulnerability"
+    "target": "k-2897",
+    "label_keywords": "reduced software vulnerability"
   },
   {
     "source": "ITL Bulletin42725",
@@ -24168,11 +24113,6 @@
     "source": "ITL Bulletin41569",
     "target": "k-49",
     "label_keywords": "PIV"
-  },
-  {
-    "source": "ITL Bulletin41526",
-    "target": "k-1493",
-    "label_keywords": ""
   },
   {
     "source": "ITL Bulletin41508",
@@ -32320,11 +32260,6 @@
     "label_keywords": "voice assistant"
   },
   {
-    "source": "CSWP35",
-    "target": "k-1493",
-    "label_keywords": ""
-  },
-  {
     "source": "CSWP36",
     "target": "k-289",
     "label_keywords": "5G"
@@ -32591,18 +32526,8 @@
   },
   {
     "source": "CSWP38",
-    "target": "k-743",
-    "label_keywords": "Task"
-  },
-  {
-    "source": "CSWP38",
-    "target": "k-740",
-    "label_keywords": "Knowledge"
-  },
-  {
-    "source": "CSWP38",
     "target": "k-2700",
-    "label_keywords": "and Skill Statements"
+    "label_keywords": "Task, Knowledge, and Skill Statements"
   },
   {
     "source": "CSWP38",
@@ -33631,13 +33556,8 @@
   },
   {
     "source": "Other43031",
-    "target": "k-2804",
-    "label_keywords": "reference data set"
-  },
-  {
-    "source": "Other43031",
-    "target": "k-2805",
-    "label_keywords": "RDS"
+    "target": "k-2898",
+    "label_keywords": "reference data set (RDS)"
   },
   {
     "source": "Other43031",
