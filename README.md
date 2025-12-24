@@ -1,4 +1,4 @@
-Like all the best Mathematicians. I am mad. This could have been purchased through a 3rd party vendors tool, however I have not had any opportunities to learn software development properly. So I chose the fun task of established a new topology for searching databases. Does this count as a PhD thesis? - I'd rather like to go for a Mathematics PhD or work in the field of science & academia; perhaps this helps grant me some things to evidence my skillsets back to others.
+Like all the best Mathematicians. I am mad (metaphorically). This could have been purchased through a 3rd party vendors tool, however I have not had any opportunities to learn software development properly. So I chose the fun task of established a new topology for searching databases. Does this count as a PhD thesis? - I'd rather like to go for a Mathematics PhD or work in the field of science & academia; perhaps this helps grant me some things to evidence my skillsets back to others.
 
 Complete: 4 years
 
